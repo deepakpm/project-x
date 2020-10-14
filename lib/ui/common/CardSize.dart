@@ -1,0 +1,5 @@
+
+enum CardSize {
+  HALF,
+FULL
+}
